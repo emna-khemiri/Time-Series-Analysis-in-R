@@ -6,6 +6,5 @@ This repository hosts a collection of R projects showcasing data analysis, visua
 # Data Sources
 Federal Reserve Economic Data (FRED):
 
-MRTSSM4413USN (US Auto Parts Retail Sales)
-
-HOOVMN03JPM661N (Japan Manufacturing Overtime Hours)
+- MRTSSM4413USN (US Auto Parts Retail Sales)
+- HOOVMN03JPM661N (Japan Manufacturing Overtime Hours)
